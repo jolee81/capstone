@@ -1,0 +1,12 @@
+---
+title: "TDI Capstone"
+author: "Johanna"
+date: "8/27/2017"
+output: html_document
+---
+
+## R Markdown
+I attend The Data Incubator in Summer 2017. For my capstone project, I analyzed data of global aid, investment and migration patterns. The RShiny app can be found here: <https://hanuman.shinyapps.io/clustering>.
+
+
+
